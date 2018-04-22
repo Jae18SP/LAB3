@@ -1,0 +1,9 @@
+ REF link 
+** http://dudevictor.github.io/projects/programacao-concorrente/shared-memory-with-openmp/
+
+** How does the performance of your parallelization of Count sort compare
+to serial Count sort? How does it compare to the serial qsort 
+library function?**
+
+
+Answer---> In my observation speedop of p/n was comlexity of n^2 (n squre) for previous case, speedup can reduce to n(log n).
